@@ -1,9 +1,9 @@
 # newifi3-pandora-ipk
 Some ipk
 自己用的
-## newifi3用的koolproxyR别到论坛分享！一定要记住！！
+# newifi3用的koolproxyR别到论坛分享！一定要记住！！
 
-# 准备工作：
+## 准备工作：
 先运行：</br>
 `opkg install openssl-util  ipset dnsmasq-full diffutils iptables-mod-nat-extra wget ca-bundle ca-certificates libustream-openssl`</br>
 手动安装以上依赖包</br>
