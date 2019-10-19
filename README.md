@@ -1,6 +1,6 @@
 # newifi3-pandora-ipk
-Some ipk
-自己用的
+pandora镜像源http://pandorabox.tuuz.cc:8000/pandorabox/
+
 # newifi3用的koolproxyR别到论坛分享！一定要记住！！
 
 ## 准备工作：
