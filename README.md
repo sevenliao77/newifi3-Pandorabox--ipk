@@ -1,4 +1,9 @@
 # newifi3-pandora-ipk
+
+#安装kpr后把自定义规则订阅的地址改为 https://dev.tencent.com/u/shaoxia1991/p/koolproxyR_rule_list/git/raw/master/kpr_our_rule.txt
+#不修改有时会更新失败
+
+
 pandora镜像源http://pandorabox.tuuz.cc:8000/pandorabox/
 
 # newifi3用的koolproxyR别到论坛分享！一定要记住！！
